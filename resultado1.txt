@@ -1,0 +1,5 @@
+Ano de fabricação do(a) Ferrari Spider: 2020
+Ano de fabricação do(a) Lamborghini Gallardo: 2021
+Ano de fabricação do(a) Siena: 2001
+Ano de fabricação do(a) Gol: 2005
+Média de ano dos carros: 2011
